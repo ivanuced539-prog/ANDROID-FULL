@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AppPantaillas</string>
+    <string name="logo_full">Logo Full</string>
+    <string name="bienvenido_de_nuevo">¡Bienvenido de nuevo!</string>
+    <string name="inicia_sesi_n_para_continuar">Inicia sesión para continuar</string>
+    <string name="correo_electr_nico_o_usuario">Correo electrónico o Usuario</string>
+    <string name="usuario_ejemplo_com">usuario@ejemplo.com</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="olvidaste_tu_contrase_a">¿Olvidaste tu contraseña?</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión →</string>
+    <string name="mantener_sesi_n_iniciada">Mantener sesión iniciada</string>
+    <string name="password">••••••••</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ahora">Ahora</string>
+    <string name="averias">Averias</string>
+    <string name="tu_resumen_de_actividad_para_hoy">Tu resumen de actividad para hoy.</string>
+    <string name="bienvenido_t_cnico">Bienvenido Técnico</string>
+    <string name="clientes">Clientes</string>
+    <string name="directorio_y_contacts">Directorio y contacts</string>
+    <string name="zonas">Zonas</string>
+    <string name="zona_norte_activa">Zona Norte Activa</string>
+    <string name="recoger">Recoger</string>
+    <string name="bienvenido_t_cnico_nfull">Bienvenido Técnico\nFull</string>
+    <string name="_12_pendientes">12 Pendientes</string>
+    <string name="perfil">Perfil</string>
+    <string name="traslado">Traslado</string>
+    <string name="reconexi_n">Reconexión</string>
+    <string name="ver_stock">Ver Stock</string>
+    <string name="configuraci_n">Configuración</string>
+    <string name="cerrar_sesi_n">Cerrar sesión</string>
+    <string name="a">›</string>
+</resources>

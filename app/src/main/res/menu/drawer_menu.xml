@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_perfil"
+            android:icon="@drawable/ic_clientes"
+            android:title="@string/perfil" />
+        <item
+            android:id="@+id/nav_averias"
+            android:icon="@drawable/ic_averia"
+            android:title="@string/averias" />
+        <item
+            android:id="@+id/nav_clientes"
+            android:icon="@drawable/ic_clientes"
+            android:title="@string/clientes" />
+        <item
+            android:id="@+id/nav_zonas"
+            android:icon="@drawable/ic_mapa"
+            android:title="@string/zonas" />
+        <item
+            android:id="@+id/nav_recoger"
+            android:icon="@drawable/ic_recoger"
+            android:title="@string/recoger" />
+        <item
+            android:id="@+id/nav_traslado"
+            android:icon="@drawable/ic_traslado"
+            android:title="@string/traslado" />
+        <item
+            android:id="@+id/nav_reconexion"
+            android:icon="@drawable/ic_reconexion"
+            android:title="@string/reconexi_n" />
+        <item
+            android:id="@+id/nav_stock"
+            android:icon="@drawable/ic_stock"
+            android:title="@string/ver_stock" />
+        <item
+            android:id="@+id/nav_configuracion"
+            android:icon="@drawable/ic_averia"
+            android:title="@string/configuraci_n" />
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_recoger"
+                android:title="@string/cerrar_sesi_n" />
+        </menu>
+    </item>
+
+</menu>

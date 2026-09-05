@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:paddingTop="32dp"
+    android:paddingBottom="20dp">
+
+    <!-- Logo "Full" -->
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:src="@drawable/ic_logofull"
+        app:tint="#006837" />
+
+    <!-- Título Soporte Técnico -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="Soporte Técnico"
+        android:textColor="#0F172A"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <!-- Estado En Línea -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:text="• En Línea"
+        android:textColor="#16A34A"
+        android:textSize="12sp"
+        android:textStyle="bold" />
+
+</LinearLayout>
